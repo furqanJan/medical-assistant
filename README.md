@@ -1,4 +1,4 @@
-﻿# Medical Assistant Chatbot with TinyLlama
+# Medical Assistant Chatbot with TinyLlama
 
 ## Description
 
